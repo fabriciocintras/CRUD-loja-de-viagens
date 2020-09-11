@@ -1,0 +1,26 @@
+@model IEnumerable<Mensagem>
+    @{
+        ViewData["Title"]= "Listagem de Pacotes Turisticos";
+    }
+    <h2>Listagem de Pacotes Turisticos</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Contato</th>
+                <th scope="col">Texto</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Mensagem m in Model)
+            {
+                <tr>
+                    <td>@m.Id</td>
+                    <td>@m.Nome</td>
+                    <td>@m.Contato</td>
+                    <td>@m.Texto</td>
+                </tr>
+            }
+        </tbody>
+    </table>

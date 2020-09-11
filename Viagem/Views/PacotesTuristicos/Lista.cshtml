@@ -1,0 +1,65 @@
+@model IEnumerable<PacotesTuristicos> 
+
+    @{
+        ViewData["Title"]= "Listagem de Pacotes Turisticos";
+    }
+    <h2>Listagem de Pacotes Turisticos</h2>
+  
+        
+       <div class="container">
+           <div class="row">
+               <div class=" d-flex flex-row">
+                    @foreach (PacotesTuristicos p in Model)
+            {
+                <div class="container ">
+                    <div class=" center d-flex flex-row">
+                        
+
+
+                             <div class="d-flex flex-column  mb-3  mb-3"> 
+                           
+                                <div class="p-2 ">
+                                    
+                                    <td>@p.Nome</td>
+                                </div>
+                                <div class="p-2 ">
+                                    <th >Origem</th>
+                                    <td>@p.Origem</td>
+                                </div>
+                                <div class="p-2 ">
+                                    <th >Destino</th>
+                                    <td>@p.Destino</td>
+                                </div>
+                                <div class="p-2">
+                                    
+                                    <td>@p.Atrativos</td>
+                                </div>
+                                <div class="p-2">
+                                    <th >Data de Saida</th>
+                                    <td>@p.Atrativos</td>
+                                </div>
+                                <div class="p-2 ">
+                                    <th>Data de Retorno</th>
+                                    <td>@p.Atrativos</td>
+                                </div>
+                                <div class="p-2 ">
+                                    <th>Data saida</th>
+                                    <td>@p.DataSaida</td>
+                                </div>
+                                <div class="p-2 ">
+                                    <th>Data retorno</th>
+                                    <td>@p.DataRetorno</td>
+                                </div>
+                          
+
+
+                     </div>
+                    </div>
+                </div>
+            }
+               </div>
+           </div>
+       </div>
+           
+        
+    

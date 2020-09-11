@@ -1,0 +1,35 @@
+@model List<PacotesTuristicos>
+
+@{
+    ViewData["Title"] = "Carrinho de compras";
+}
+<h2>Listagem de Pacotes Turisticos</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Origem</th>
+                <th>Destino</th>
+                <th>Atrativos</th>
+                <th>Data de Saida</th>
+                <th>Data de Retorno</th>
+                <th>Usuario</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (PacotesTuristicos ppp in Model)
+            { 
+                <tr>
+                    <td>@ppp.Id</td>
+                    <td>@ppp.Nome</td>
+                    <td>@ppp.Origem</td>
+                    <td>@ppp.Destino</td>
+                    <td>@ppp.Atrativos</td>
+                    <td>@ppp.DataSaida</td>
+                    <td>@ppp.DataRetorno</td>
+                    <td>@ppp.Usuario</td>
+                </tr>
+            }
+        </tbody>
+    </table>

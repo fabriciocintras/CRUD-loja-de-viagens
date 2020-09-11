@@ -1,0 +1,131 @@
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.csprojAssemblyReference.cache
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.AssemblyInfoInputs.cache
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.AssemblyInfo.cs
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.csproj.CoreCompileInputs.cache
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorAssemblyInfo.cache
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorAssemblyInfo.cs
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.TagHelpers.input.cache
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.TagHelpers.output.cache
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorCoreGenerate.cache
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorTargetAssemblyInfo.cache
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorTargetAssemblyInfo.cs
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.dll
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.pdb
+C:\Users\Fabrício\Desktop\Viagem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Fabrício\Desktop\Viagem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Fabrício\Desktop\Viagem\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Fabrício\Desktop\Viagem\bin\Debug\netcoreapp3.1\Viagem.exe
+C:\Users\Fabrício\Desktop\Viagem\bin\Debug\netcoreapp3.1\Viagem.deps.json
+C:\Users\Fabrício\Desktop\Viagem\bin\Debug\netcoreapp3.1\Viagem.runtimeconfig.json
+C:\Users\Fabrício\Desktop\Viagem\bin\Debug\netcoreapp3.1\Viagem.runtimeconfig.dev.json
+C:\Users\Fabrício\Desktop\Viagem\bin\Debug\netcoreapp3.1\Viagem.dll
+C:\Users\Fabrício\Desktop\Viagem\bin\Debug\netcoreapp3.1\Viagem.pdb
+C:\Users\Fabrício\Desktop\Viagem\bin\Debug\netcoreapp3.1\Viagem.Views.dll
+C:\Users\Fabrício\Desktop\Viagem\bin\Debug\netcoreapp3.1\Viagem.Views.pdb
+C:\Users\Fabrício\Desktop\Viagem\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Cadastro.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.Views.pdb
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.csproj.CopyComplete
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\staticwebassets\Viagem.StaticWebAssets.Manifest.cache
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\staticwebassets\Viagem.StaticWebAssets.xml
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Viagem.genruntimeconfig.cache
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Lista.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lista.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\bin\Debug\netcoreapp3.1\Viagem.exe
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\bin\Debug\netcoreapp3.1\Viagem.deps.json
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\bin\Debug\netcoreapp3.1\Viagem.runtimeconfig.json
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\bin\Debug\netcoreapp3.1\Viagem.runtimeconfig.dev.json
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\bin\Debug\netcoreapp3.1\Viagem.dll
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\bin\Debug\netcoreapp3.1\Viagem.pdb
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\bin\Debug\netcoreapp3.1\Viagem.Views.dll
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\bin\Debug\netcoreapp3.1\Viagem.Views.pdb
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.csprojAssemblyReference.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.AssemblyInfoInputs.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.AssemblyInfo.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.csproj.CoreCompileInputs.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorAssemblyInfo.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorAssemblyInfo.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.TagHelpers.input.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.TagHelpers.output.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorCoreGenerate.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lista.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Cadastro.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Lista.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorTargetAssemblyInfo.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorTargetAssemblyInfo.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.Views.pdb
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.csproj.CopyComplete
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\staticwebassets\Viagem.StaticWebAssets.Manifest.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\staticwebassets\Viagem.StaticWebAssets.xml
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.dll
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.pdb
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Viagem.genruntimeconfig.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\uc4\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Carrinho.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\bin\Debug\netcoreapp3.1\Viagem.exe
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\bin\Debug\netcoreapp3.1\Viagem.deps.json
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\bin\Debug\netcoreapp3.1\Viagem.runtimeconfig.json
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\bin\Debug\netcoreapp3.1\Viagem.runtimeconfig.dev.json
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\bin\Debug\netcoreapp3.1\Viagem.dll
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\bin\Debug\netcoreapp3.1\Viagem.pdb
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\bin\Debug\netcoreapp3.1\Viagem.Views.dll
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\bin\Debug\netcoreapp3.1\Viagem.Views.pdb
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.csprojAssemblyReference.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.AssemblyInfoInputs.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.AssemblyInfo.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.csproj.CoreCompileInputs.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorAssemblyInfo.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorAssemblyInfo.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.TagHelpers.input.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.TagHelpers.output.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorCoreGenerate.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Carrinho.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lista.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Cadastro.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Lista.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorTargetAssemblyInfo.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.RazorTargetAssemblyInfo.cs
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.Views.pdb
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.csproj.CopyComplete
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\staticwebassets\Viagem.StaticWebAssets.Manifest.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\staticwebassets\Viagem.StaticWebAssets.xml
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.dll
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.pdb
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Viagem.genruntimeconfig.cache
+C:\Users\Fabrício\Desktop\Tec. Informatica para Internet\Concluido\Modulo 1\implementar banco de dados\Viagem\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs

@@ -1,0 +1,22 @@
+@model Mensagem
+
+<h2>Fale Conosco</h2>
+
+<form method="POST">
+    <p>
+        <label asp-for="Nome">Nome:</label>
+        <input asp-for="Nome">
+    </p>
+    <p>
+        <label asp-for="Contato">Contato:</label>
+        <input asp-for="Contato">
+    </p>
+    <p>
+        <label asp-for="Texto">Texto:</label>
+        <textarea asp-for="Texto" row="20"col="5"></textarea>
+    </p>
+    <p>
+        <input type="submit"value="Enviar">
+    </p>
+    <p>@ViewBag.Mensagem</p>
+</form>

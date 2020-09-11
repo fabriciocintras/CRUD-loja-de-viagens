@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/3FX8IhIhPdzc2EhG2KPalTgY8k8Z583gYD18I7pYHZ1u3FNtUzkYMDjkh/n2wEO2bl6A659ms7rUAP+SrhRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fabrício\\Desktop\\Tec. Informatica para Internet\\Concluido\\Modulo 1\\implementar banco de dados\\Viagem\\Viagem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fabrício\\.nuget\\packages\\mysqlconnector\\1.0.1\\mysqlconnector.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
